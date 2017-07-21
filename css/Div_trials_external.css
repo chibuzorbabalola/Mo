@@ -1,0 +1,10 @@
+style type="text/css">
+	#container{width: 1330px; height: 1000px;}
+	#header{width: 1330px; height:50px; background-color:orange;}
+		   #a{ font-family: Verdana; color:white; font-size: 30px; text-align: center}
+		   #b{ font-family: Verdana; color: blue; font-size: 15px; font-style: italic; text-align: center}
+	#content{width: 1330px; height: 800px;background-color: white}
+	#sidebar{width: 330px; height: 800px; background-color: lightgrey;}
+	#mainbar{width: 970px; height: 800px; background-color: teal; float: right;}
+	#footer{width: 1330px; height: 100px; background-color:blue}
+</style>
